@@ -19,5 +19,6 @@ http://ito110-dog.github.io/
 ### table
 | todo | date |
 | --- | --- |
-| shopping |  |
+| shopping | 2022-07-01 |
+| BBQ | 2022-08-01 |
 
